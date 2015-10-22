@@ -1,4 +1,7 @@
-strings sonard | grep 1.4.1
+strings - print the strings of printable characters in files.
+
+
+strings app | grep 1.4.1
 1.4.1) and library
 STXXL v1.4.1 (prerelease/Release)
 @1.4.1
